@@ -23,14 +23,22 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 - Click on a country to see more detailed information on a separate page
 - Toggle the color scheme between light and dark mode
 
-### Screenshot
+### Screenshots
 
-<!-- ![](./screenshot.jpg) -->
+![](https://github.com/UsamaBinKashif/REST-Countries-API/blob/main/screenshots/ss1.png)
+
+</br>
+
+![](https://github.com/UsamaBinKashif/REST-Countries-API/blob/main/screenshots/ss2.png)
+
+</br>
+
+![](https://github.com/UsamaBinKashif/REST-Countries-API/blob/main/screenshots/ss3.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/UsamaBinKashif/REST-Countries-API)
+- [Live Site URL](https://rest-countries-api-usamabinkashif.vercel.app/)
 
 ### Built with
 
